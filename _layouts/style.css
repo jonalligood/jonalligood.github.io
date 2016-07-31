@@ -1,5 +1,6 @@
 {% include css/bootstrap.min.css %}
 {% include css/main.css %}
+
 .img-circle {
   border-radius: 50%;
 }
