@@ -51,3 +51,7 @@ textarea:focus, input:focus {
 .form-control {
   color: #fff;
 }
+
+.item-details {
+  color: #2c3e50;
+}
