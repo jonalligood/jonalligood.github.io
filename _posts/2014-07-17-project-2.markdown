@@ -1,13 +1,13 @@
 ---
 layout: default
 modal-id: 2
-title:
+title: Road Rage
 date: 2016-07-30
 img: traffic-sim.png
 alt: image-alt
 project-date: July 2016
 client: Educational Purposes
 category: Simulation
-description: A project to simulate the behavior of drivers in traffic on a new road in order to determine the optimal speed limits. Built entirely in Python using Monte Carlo methods.
+description: A project to simulate the behavior of drivers in traffic on a new road in order to determine the optimal speed limits. Built entirely in Python using Monte Carlo methods. <a href="https://github.com/jonalligood/road-rage">Github link</a>.
 
 ---
