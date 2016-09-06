@@ -64,3 +64,7 @@ a, a:hover, a:visited {
 .portfolio-title {
   text-align: center;
 }
+
+.modal-link:link, .modal-link:visited {
+  color: #99f;
+}

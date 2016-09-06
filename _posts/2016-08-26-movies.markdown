@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 4
+title: Movie Lens
+date: 2016-08-26
+img: movies.png
+alt: image-alt
+project-date: August 2016
+client: Education Purposes
+category: Web Development
+description: A movie rating and review site. Users can receive recommendations based on movies they have already watched and rated thanks to the data provided by the movie lens dataset. This was achieved through Euclidean Distance to compare users. Built using Django, Postgresql, Bootstrap, and Bootstrap-Datatables. See the source at <a class="modal-link" href="https://github.com/jonalligood/movies">Github</a>.
+
+---

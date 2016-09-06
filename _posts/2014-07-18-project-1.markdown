@@ -3,11 +3,11 @@ layout: default
 modal-id: 1
 title: Diary
 date: 2016-04-25
-img: cabin.png
+img: diary.png
 alt: image-alt
 project-date: April 2016
 client: Myself
 category: Web Development
-description: A place to store your private thoughts! Users can log in from anywhere and post knowing their private thoughts are just that, private. Built using Flask, SQL-Alchemy, Sqlite, and Bcrypt. <a href="https://github.com/jonalligood/flask-diary">Github link</a>.
+description: A place to store your private thoughts. Users can log in from anywhere and post knowing their private thoughts are just that, private. Built using Flask, SQL-Alchemy, Sqlite, and Bcrypt. See the source at <a class="modal-link" href="https://github.com/jonalligood/flask-diary">Github</a>.
 
 ---
