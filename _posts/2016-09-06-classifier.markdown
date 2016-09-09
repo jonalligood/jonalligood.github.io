@@ -3,7 +3,7 @@ layout: default
 modal-id: 3
 title: Peak Classifier
 date: 2016-09-06
-img: classifier-small.png
+img: classifier.png
 alt: image-alt
 project-date: September 2016
 client: Education Purposes
