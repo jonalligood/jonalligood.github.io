@@ -69,9 +69,18 @@ a, a:hover, a:visited {
   color: #99f;
 }
 
-.img-resize {
-  height: auto;
-  width: auto;
-  max-width: 25%;
-  max-height: 25%;
+@media only screen and (min-width: 768px) {
+  .img-resize {
+    height: auto;
+    width: auto;
+    max-width: 25%;
+    max-height: 25%;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .img-resize {
+    height: 80%;
+    width: 80%;
+  }
 }
