@@ -68,3 +68,10 @@ a, a:hover, a:visited {
 .modal-link:link, .modal-link:visited {
   color: #99f;
 }
+
+.img-resize {
+  height: auto;
+  width: auto;
+  max-width: 25%;
+  max-height: 25%;
+}

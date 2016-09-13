@@ -39,9 +39,11 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/j.alligood47
+    url: http://twitter.com/jonalligood
   - title: github
     url: https://github.com/jonalligood/
+  - title: linkedin
+    url: https://linkedin.com/in/jon-alligood
 
 # Postal address (add as many lines as necessary)
 address:
